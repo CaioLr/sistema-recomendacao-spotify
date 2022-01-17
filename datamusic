@@ -1,51 +1,101 @@
-id,images,danceability,energy,loudness,speechiness,instrumentalness,liveness,valence,tempo
-4fouWK6XVHhzl78KzQ1UjL,https://i.scdn.co/image/ab67616d0000b27302d82cf34fefe6736718acd1,0.695,0.54,-5.692,0.0493,0.0,0.367,0.415,121.932
-3USxtqRwSYz57Ewm6wWRMp,https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464,0.761,0.525,-6.9,0.0944,6.7e-06,0.0921,0.531,80.87
-5HCyWlXZPP0y6Gqq8TgA20,https://i.scdn.co/image/ab67616d0000b27341e31d6ea1d493dd77933ee5,0.591,0.764,-5.484,0.0483,0.0,0.103,0.478,169.928
-1nH2PkJL1XoUq8oE6tBZoU,https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d,0.735,0.795,-6.523,0.113,3.18e-05,0.0678,0.905,122.0
-6zSpb8dQRaw0M1dK8PBwQz,https://i.scdn.co/image/ab67616d0000b2739f5cce8304c42d3a5463fd23,0.796,0.798,-6.312,0.0317,4.19e-05,0.0952,0.942,116.032
-6bQfNiqyCX7UaQSvVVGo4I,https://i.scdn.co/image/ab67616d0000b273469407300636945a5eb2d9ed,0.788,0.859,-2.724,0.0856,0.0,0.0424,0.822,141.02
-0gplL1WMoJ6iYaPgMCL0gX,https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4,0.604,0.366,-7.519,0.0282,0.0,0.133,0.13,141.981
-2Xr1dTzJee307rmrkt8c0g,https://i.scdn.co/image/ab67616d0000b273405fdad252857e01dbced96a,0.727,0.739,-3.805,0.0411,0.00137,0.161,0.533,93.005
-27NovPIUIRrOZoCHxABJwK,https://i.scdn.co/image/ab67616d0000b273ba26678947112dff3c3158bf,0.736,0.704,-7.409,0.0615,0.0,0.0501,0.894,149.995
-1SOClUWhOi8vHZYMz3GluK,https://i.scdn.co/image/ab67616d0000b273a9897f65d1ead1be10a51e3f,0.671,0.673,-6.941,0.0444,5.29e-05,0.304,0.494,121.963
-2SLwbpExuoBDZBpjfefCtV,https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d,0.65,0.76,-4.422,0.0446,0.0,0.339,0.838,93.057
-5dPz35akJjPqb17yeqNwqH,https://i.scdn.co/image/ab67616d0000b2736036cfd2a718036fc523855f,0.604,0.741,-5.571,0.0475,3.49e-05,0.409,0.473,153.947
-20on25jryn53hWghthWWW3,https://i.scdn.co/image/ab67616d0000b27384d413b195aac8a69cc6e5c6,0.854,0.806,-8.262,0.0886,0.0542,0.0703,0.637,124.927
-6Uj1ctrBOjOas8xZXGqKk4,https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321,0.824,0.764,-4.175,0.0854,0.00294,0.117,0.881,107.998
-5S9Zs5g9lTWnLIboN1pdlU,https://i.scdn.co/image/ab67616d0000b2737904dbff5b1dac889cdff376,0.603,0.473,-7.23,0.0511,0.0,0.31,0.446,109.494
-1r9xUipOqoNwggBpENDsvJ,https://i.scdn.co/image/ab67616d0000b273aa597e50829169e6994eb403,0.728,0.783,-4.424,0.266,0.0,0.434,0.555,77.011
-3FeVmId7tL5YN8B7R3imoM,https://i.scdn.co/image/ab67616d0000b273f60a9b7e2abafc38da31f575,0.588,0.701,-6.39,0.0402,0.0,0.2,0.443,104.988
-00Blm7zeNqgYLPtW6zg8cj,https://i.scdn.co/image/ab67616d0000b2734158fe41143182ec16ead070,0.687,0.781,-4.806,0.053,0.0,0.0755,0.688,97.014
-0lEjxUUlKqjqXrVlIHFduD,https://i.scdn.co/image/ab67616d0000b273c9fe7f7818e58b590afbd383,0.828,0.591,-6.217,0.109,0.000323,0.361,0.202,119.251
-5fwSHlTEWpluwOM0Sxnh5k,https://i.scdn.co/image/ab67616d0000b2734239a6aa89738d8f798168ad,0.762,0.766,-3.955,0.0343,6.98e-05,0.128,0.442,130.001
-6PQ88X9TkUIAUIZJHW2upE,https://i.scdn.co/image/ab67616d0000b2734e03a288fd79707055759f9c,0.808,0.897,-3.712,0.0348,3.14e-05,0.364,0.591,126.026
-3Kkjo3cT83cw09VJyrLNwX,https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7,0.534,0.725,-3.906,0.046,0.0,0.0264,0.55,88.098
-3nOz1U41SZZ0N3fuUWr9nb,https://i.scdn.co/image/ab67616d0000b273d4e10cba96b669683d0f8069,0.646,0.471,-9.247,0.157,0.0,0.125,0.455,170.084
-3uUuGVFu1V7jTQL60S1r8z,https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b,0.671,0.636,-8.117,0.103,0.000411,0.172,0.262,120.966
-18asYwWugKjjsihZ0YvRxO,https://i.scdn.co/image/ab67616d0000b2736b64f7a7e0e7af3d604ab41e,0.754,0.763,-4.627,0.0435,2.23e-05,0.0901,0.464,117.953
-3Vi5XqYrmQgOYBajMWSvCi,https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321,0.664,0.609,-6.509,0.0707,0.0,0.0926,0.194,130.041
-5dXWFMwD7I7zXsInONVl0H,https://i.scdn.co/image/ab67616d0000b2732cb5c3a1013e6be7084da957,0.535,0.388,-9.805,0.155,0.0,0.11,0.412,106.703
-4iN16F8JtVxG2UTzp3avGl,https://i.scdn.co/image/ab67616d0000b273ca1fa2ec5795f48e610dc058,0.627,0.618,-8.529,0.0437,0.0,0.351,0.848,82.03
-0e8nrvls4Qqv5Rfa2UhqmO,https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd,0.737,0.846,-4.51,0.22,0.0,0.0486,0.546,87.981
-4A8cWXxKfIL3lAyUDzXbCF,https://i.scdn.co/image/ab67616d0000b2735340631eca6f127d094545c9,0.825,0.414,-6.634,0.144,0.0,0.357,0.106,72.993
-3s1KwrLP0NlFWiWbjz6bfQ,https://i.scdn.co/image/ab67616d0000b2731c4c28299e3b188a72d07ed8,0.956,0.417,-7.892,0.0926,0.00071,0.0782,0.714,108.015
-32BeYxKPrig1LefHsC0Xuo,https://i.scdn.co/image/ab67616d0000b27331aa3ebe23f59778bff800c9,0.334,0.599,-5.742,0.0365,0.000392,0.205,0.127,161.74
-2KnLkZ3z7PO3kgVGHGqDpD,https://i.scdn.co/image/ab67616d0000b27372355b30dde4b6ded10ef48c,0.398,0.286,-11.881,0.033,0.000146,0.0912,0.0666,78.262
-0hYFc3HSZHDaDzquLVRwBH,https://i.scdn.co/image/ab67616d0000b273691644896f0e24b77d294983,0.744,0.648,-11.819,0.35,0.00614,0.109,0.387,144.036
-6f5ExP43esnvdKPddwKXJH,https://i.scdn.co/image/ab67616d0000b2736b742298f7f36717855c4caf,0.717,0.671,-5.077,0.0337,2.54e-06,0.0921,0.699,110.054
-0eu4C55hL6x29mmeAjytzC,https://i.scdn.co/image/ab67616d0000b2731c5a484110522f2b9c7038cc,0.7,0.49,-5.187,0.076,0.0,0.117,0.569,79.982
-5TMLavqGRKNxgzMBrVpC9R,https://i.scdn.co/image/ab67616d0000b273545c930fa9fada545b01f71d,0.748,0.761,-6.621,0.102,6.56e-06,0.0984,0.362,116.041
-748mdHapucXQri7IAO8yFK,https://i.scdn.co/image/ab67616d0000b273908280d9807127e185b71d56,0.762,0.701,-3.541,0.0286,0.000158,0.123,0.742,110.968
-07MDkzWARZaLEdKxo6yArG,https://i.scdn.co/image/ab67616d0000b273024ea7e883a713a3ad552a71,0.773,0.47,-7.93,0.0299,0.000193,0.0851,0.399,94.995
-7hU3IHwjX150XLoTVmjD0q,https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19,0.831,0.554,-9.998,0.218,6.12e-05,0.152,0.396,140.026
-3eJH2nAjvNXdmPfBkALiPZ,https://i.scdn.co/image/ab67616d0000b2738544aa5ba43894b7103ec757,0.774,0.792,-4.021,0.0523,0.0,0.155,0.507,122.062
-3BZEcbdtXQSo7OrvKRJ6mb,https://i.scdn.co/image/ab67616d0000b273ddb9cf14094fa5b3f8683b14,0.61,0.508,-6.682,0.152,0.0,0.384,0.758,178.818
-6PERP62TejQjgHu81OHxgM,https://i.scdn.co/image/ab67616d0000b273670ec029374e082f921f9f74,0.556,0.661,-5.052,0.204,0.0,0.101,0.668,168.56
-3Wrjm47oTz2sjIgck11l5e,https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045,0.714,0.8,-4.808,0.0504,0.0,0.359,0.589,134.002
-6dmXZ9B5HdFAyzHeTneYBK,https://i.scdn.co/image/ab67616d0000b273123631afea1a0c8ed83229c8,0.77,0.302,-7.911,0.0466,3.38e-05,0.125,0.821,136.01
-15HMh4yxdf4wyxSZSlOgGZ,https://i.scdn.co/image/ab67616d0000b2734252bf8f93dbbac190af5b51,0.859,0.525,-8.051,0.0592,2.34e-05,0.108,0.312,110.066
-08SB2OtZkaliju77WYEKxk,https://i.scdn.co/image/ab67616d0000b273cd4fbef085542cb698fd598c,0.707,0.618,-5.825,0.19,0.0,0.293,0.517,133.876
-2gQPv5jvVPqU2a9HhMNO1v,https://i.scdn.co/image/ab67616d0000b27382a18aa0d3374049c6b78f6a,0.594,0.612,-6.627,0.363,0.0,0.461,0.687,179.629
-2EBnvom1dTybtm75a3Xh1T,https://i.scdn.co/image/ab67616d0000b273886ff9882f35c82d652a9cf5,0.508,0.378,-7.158,0.0473,0.0,0.119,0.161,144.962
-6w8ZPYdnGajyfPddTWdthN,https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7,0.703,0.68,-6.118,0.0431,0.0,0.178,0.536,97.985
+nomes,id,images,danceability,energy,loudness,speechiness,instrumentalness,liveness,valence,tempo
+Sweet Dreams,1FKxKGONukVFXWVJxAKmlz,https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef,0.694,0.825,-5.986,0.111,1.86e-05,0.0618,0.788,121.949
+"Whenever, Wherever",2lnzGkdtDj5mtlcOW2yRtG,https://i.scdn.co/image/ab67616d0000b2731f400a1f4d821b00824cf58f,0.794,0.832,-4.862,0.0407,1.14e-05,0.203,0.871,107.657
+Single Ladies (Put a Ring on It),5R9a4t5t5O0IsznsrKPVro,https://i.scdn.co/image/ab67616d0000b273801c4d205accdba0a468a10b,0.426,0.584,-5.293,0.296,0.0,0.188,0.272,193.437
+Hey Ya!,3AszgPDZd9q0DpDFt4HFBy,https://i.scdn.co/image/ab67616d0000b27344d34793d0f4bddf28e0e8a8,0.715,0.97,-2.206,0.0648,0.000156,0.205,0.963,79.504
+You Belong With Me,3GCL1PydwsLodcpv0Ll1ch,https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc,0.687,0.783,-4.44,0.0386,1.35e-05,0.114,0.443,129.964
+Empire State Of Mind [Jay-Z + Alicia Keys],69yVxyuRahEzs2taFMVVoO,https://i.scdn.co/image/ab67616d0000b2731482b64d2a7be1616ed1c942,0.495,0.933,-3.977,0.395,0.0,0.503,0.815,173.414
+Cry Me a River,7Lf7oSEVdzZqTA0kEDSlS5,https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee,0.624,0.654,-6.582,0.183,0.0,0.104,0.564,73.898
+Can't Get You out of My Head,7MoKXLQeI0Bh2QodCjDO4K,https://i.scdn.co/image/ab67616d0000b2736531dcfcbc99b82be7eec9f0,0.766,0.563,-7.516,0.0339,0.683,0.115,0.964,126.007
+American Boy (feat. Kanye West),41on8RwRh22IHcChAN2gm8,https://i.scdn.co/image/ab67616d0000b2735288f048b151164b4cbf9f50,0.727,0.729,-2.99,0.326,0.0,0.07,0.512,117.932
+Say My Name,6WAhLCL1XchQzYjl15rnFp,https://i.scdn.co/image/ab67616d0000b273a9a9c46edfae707aa9e884c0,0.632,0.631,-3.801,0.13,0.0,0.142,0.684,68.88
+I'm Like A Bird,37fGGrNQgxZ3qGOvAebg9i,https://i.scdn.co/image/ab67616d0000b2732ff3861eb97438ed07d7e39a,0.62,0.601,-5.138,0.0373,5.41e-06,0.214,0.625,89.642
+Gold Digger,1PS1QMdUqOal0ai3Gt7sDQ,https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2,0.629,0.696,-5.572,0.348,0.0,0.0554,0.623,93.034
+Whatcha Say,2zJZwWF7BTGIIvrAlgzJEx,https://i.scdn.co/image/ab67616d0000b27372473d3770372061cadc55e7,0.615,0.711,-5.507,0.0779,0.0,0.145,0.711,144.036
+Clocks,0BCPKOYdS2jbQ8iyB56Zns,https://i.scdn.co/image/ab67616d0000b27390afd8e4ec6d787114ed6c40,0.577,0.749,-7.215,0.0279,0.0115,0.183,0.255,130.97
+So What,7bprRkhvOXWmWpqOrEWbXu,https://i.scdn.co/image/ab67616d0000b273ece7e052f39ec51fac31aa39,0.531,0.864,-2.978,0.0433,2.05e-06,0.346,0.402,126.02
+This Love,6ECp64rv50XVz93WvxXMGF,https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e,0.712,0.862,-4.612,0.0378,0.0,0.093,0.809,95.051
+Chasing Cars,11bD1JtSjlIgKgZG2134DZ,https://i.scdn.co/image/ab67616d0000b27315a6fad25bd729dc98799b90,0.563,0.592,-4.571,0.0276,5.08e-05,0.132,0.136,104.016
+Crazy In Love (feat. Jay-Z),5IVuqXILoxVWvWEPm82Jxr,https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1,0.646,0.77,-6.596,0.226,0.0,0.0715,0.681,99.165
+Love Lockdown,2UNedS0c7DmhV7q6CnwcmT,https://i.scdn.co/image/ab67616d0000b27395668a6c6cb887251b7c7ec3,0.755,0.532,-7.615,0.0319,0.457,0.112,0.117,119.567
+Bleeding Love,7LLouD7gdDYmmar1bfaF8V,https://i.scdn.co/image/ab67616d0000b273b770afd0ed7ad463856b21dc,0.642,0.666,-5.29,0.0333,0.0,0.146,0.195,104.038
+Yeah! (feat. Lil Jon & Ludacris),5rb9QrpfcKFHM1EUbSIurX,https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da,0.894,0.791,-4.699,0.112,0.0,0.0388,0.583,105.018
+Umbrella,49FYlytm3dAAraYgpoJZux,https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98,0.583,0.829,-4.603,0.134,0.0,0.0426,0.575,174.028
+Paper Planes,1kusepF3AacIEtUTYrw4GV,https://i.scdn.co/image/ab67616d0000b273a46877c3e262a53224c17324,0.447,0.848,-6.175,0.222,7.45e-05,0.722,0.485,172.247
+Hips Don't Lie (feat. Wyclef Jean),3ZFTkvIE7kyPt6Nu3PEa7V,https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa,0.778,0.824,-5.892,0.0707,0.0,0.405,0.758,100.024
+Beautiful Girls,5EuAj9nZiWRKeBkgxMXsW4,https://i.scdn.co/image/ab67616d0000b27398698646c3f008a36fbf2bff,0.745,0.666,-5.899,0.0566,0.0,0.302,0.708,129.995
+Toxic,717TY4sfgKQm4kFbYQIzgo,https://i.scdn.co/image/ab67616d0000b2735028c2ac460025bffa43057e,0.774,0.847,-3.925,0.121,0.0183,0.241,0.923,143.011
+Since U Been Gone,3xrn9i8zhNZsTtcoWgQEAd,https://i.scdn.co/image/ab67616d0000b27303dadde4d9d305c1c3e0d91c,0.662,0.741,-5.406,0.0334,0.0303,0.114,0.404,131.0
+TiK ToK,5OMwQFBcte0aWFJFqrr5oj,https://i.scdn.co/image/ab67616d0000b27365836b344b9d983462d5f1a7,0.755,0.832,-2.741,0.116,1.27e-06,0.291,0.735,120.032
+Crazy,1vxw6aYJls2oq3gW0DujAo,https://i.scdn.co/image/ab67616d0000b2732cb3f40f7d4114236061f77f,0.855,0.587,-4.589,0.0336,0.00714,0.105,0.64,111.97
+DJ Got Us Fallin' In Love,5tXyNhNcsnn7HbcABntOSf,https://i.scdn.co/image/ab67616d0000b273b911f456d11005e2fba6fc46,0.666,0.878,-2.85,0.0973,0.0,0.0828,0.669,119.932
+Hollaback Girl,0eqH0ALoDQevq59YcQ53KE,https://i.scdn.co/image/ab67616d0000b273f049fc9322f0c93646cdcc77,0.926,0.916,-2.221,0.0929,6.17e-06,0.0234,0.904,110.007
+Raise Your Glass,2sOqwZMlI3pFzvkDj7owRo,https://i.scdn.co/image/ab67616d0000b273ece7e052f39ec51fac31aa39,0.7,0.7,-4.934,0.0876,0.0,0.0295,0.629,122.033
+Sex on Fire,0ntQJM78wzOLVeCUAW7Y45,https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8,0.542,0.905,-5.653,0.054,0.0104,0.136,0.374,153.398
+No One,0JEqGkvUiMTQmFY6sgL9kg,https://i.scdn.co/image/ab67616d0000b2730e7e087dea9187d221f7976d,0.649,0.552,-5.419,0.0292,6.47e-06,0.111,0.158,89.969
+Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix,4ZOyH6KjomjlqCz3oFqglr,https://i.scdn.co/image/ab67616d0000b273a33bca43fe421d8b34ba73d4,0.844,0.754,-5.46,0.207,3.42e-06,0.0575,0.961,100.002
+Get Right,3jVSV60WZE5jPE2a6KGNFy,https://i.scdn.co/image/ab67616d0000b2739ee4b5ffbc4dd4d336c799ff,0.741,0.759,-5.096,0.12,0.0,0.628,0.362,97.084
+"Hey, Soul Sister",0KpfYajJVVGgQ32Dby7e9i,https://i.scdn.co/image/ab67616d0000b273706a70e4bfb15d33b8ec74a1,0.675,0.885,-4.432,0.0436,0.0,0.086,0.768,97.03
+Rehab,1bGQ57jxWpqBWMMw1X9ni7,https://i.scdn.co/image/ab67616d0000b2739d8adee9929f6394de456421,0.434,0.872,-2.974,0.0702,1.83e-06,0.396,0.732,71.515
+Oops!...I Did It Again,6naxalmIoLFWR0siv8dnQQ,https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6,0.751,0.834,-5.444,0.0437,1.77e-05,0.355,0.894,95.053
+Run the World (Girls),1uXbwHHfgsXcUKfSZw5ZJ0,https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd,0.733,0.899,-4.237,0.143,4.72e-05,0.372,0.76,127.086
+Dirrty (feat. Redman),59ZTxQo8rBycIXPLUIKvE2,https://i.scdn.co/image/ab67616d0000b2737cd872c7701c4737b2f81d87,0.64,0.889,-3.073,0.322,0.0,0.339,0.436,99.931
+My Life Would Suck Without You,4Dm32oO01YpIubCHaAtKkN,https://i.scdn.co/image/ab67616d0000b2737ed87984e7f39ba42ee1b50a,0.526,0.882,-4.006,0.0509,0.0,0.144,0.424,144.982
+"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",3QFbOgWOqXEtOD02FMcX7K,https://i.scdn.co/image/ab67616d0000b27314eb5ef4d6fb24b37b6531a6,0.673,0.934,-3.206,0.156,0.0,0.279,0.485,129.027
+Don't Stop The Music,6tXjP6xgPJ7Xr1igrO6bOE,https://i.scdn.co/image/ab67616d0000b273ad4ef80be7f5e15d64ac5c25,0.835,0.669,-5.582,0.0643,6.92e-05,0.0535,0.542,122.668
+Unwritten,1D1nixOVWOxvNfWi0UD7VX,https://i.scdn.co/image/ab67616d0000b2735c8872bc90197dd979e069fe,0.706,0.8,-6.333,0.0399,0.0,0.0822,0.629,100.011
+Get the Party Started,4bk78jvK8Fe9YHqruOJW0v,https://i.scdn.co/image/ab67616d0000b2730516080f83d31290bcd9773e,0.806,0.902,-3.387,0.0475,0.0,0.212,0.961,128.943
+Promiscuous,3SwlakM6VX47IwG0Wll5ek,https://i.scdn.co/image/ab67616d0000b2732ff3861eb97438ed07d7e39a,0.807,0.97,-6.056,0.0477,6.6e-05,0.149,0.876,114.297
+Pieces Of Me,7yXibbAYi4to5oQTeO738f,https://i.scdn.co/image/ab67616d0000b2734c2277a69c1f05cf85f985c0,0.532,0.807,-4.301,0.057,0.0,0.114,0.759,87.183
+Boyfriend,6t1rwhjgjbWPHGLAdN3e7A,https://i.scdn.co/image/ab67616d0000b273c63d079ddc55bcb10dfae39b,0.702,0.719,-3.264,0.0372,2.98e-06,0.0914,0.916,128.027
+Best of You,5FZxsHWIvUsmSK1IAvm2pp,https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72,0.366,0.94,-5.119,0.0696,9.42e-05,0.188,0.369,130.198
+A Thousand Miles - Single Version,6t6rudGjkLftasgUiSGcPN,https://i.scdn.co/image/ab67616d0000b273204000a4171aad28104e0732,0.566,0.825,-4.504,0.0383,0.0,0.218,0.278,94.991
+Pon de Replay,6GC6lcKgjCdsdIz5OiCUw5,https://i.scdn.co/image/ab67616d0000b2734a8c869f3bd4d0d4519a8c50,0.779,0.64,-8.415,0.159,0.00077,0.101,0.498,99.019
+Empire State of Mind (Part II) Broken Down,5sra5UY6sD658OabHL3QtI,https://i.scdn.co/image/ab67616d0000b273fe6a98e875958c7d7080584e,0.484,0.368,-7.784,0.0341,3.82e-05,0.118,0.142,92.923
+SOS,6ltq29OgidB834EwoAvIBN,https://i.scdn.co/image/ab67616d0000b2734a74f1e0f3d6d77ae5efb545,0.678,0.671,-4.905,0.0364,5.07e-05,0.442,0.527,137.05
+La Tortura (feat. Alejandro Sanz),5BSclXJTa9B0iURhUjZo50,https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a,0.74,0.783,-5.367,0.0427,0.000308,0.123,0.812,100.011
+Big Girls Don't Cry (Personal),7amhfTaV9f9u6gPRtD6kPT,https://i.scdn.co/image/ab67616d0000b27367745d7019a2350f5e9f3c7f,0.705,0.494,-8.83,0.0398,0.0,0.0825,0.287,113.085
+Rich Girl,2oxtQ84p1j5GmyzmD50Lq0,https://i.scdn.co/image/ab67616d0000b273f049fc9322f0c93646cdcc77,0.856,0.754,-2.728,0.0416,1.49e-05,0.206,0.722,98.018
+Stronger,2VysjemU93ac5oRg4MfYGp,https://i.scdn.co/image/ab67616d0000b273bcfdfd7c62c57a5a58a24b24,0.584,0.698,-9.476,0.122,0.0,0.295,0.478,103.966
+Viva La Vida,68l6YZZ8TlcWVq98l5eW6l,https://i.scdn.co/image/ab67616d0000b273159dca88fd715dc664d4d3fa,0.485,0.619,-7.115,0.0289,3.31e-06,0.109,0.416,138.017
+Don't Phunk With My Heart,75fscz2R984pg4bmyP1Q53,https://i.scdn.co/image/ab67616d0000b273347fa9eee03ed7792eabbd0b,0.69,0.928,-2.76,0.061,0.0,0.547,0.604,130.889
+Holiday / Boulevard of Broken Dreams,0MsrWnxQZxPAcov7c74sSo,https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b,0.29,0.827,-3.451,0.0362,2.55e-06,0.301,0.45,167.086
+American Idiot,6nTiIhLmQ3FWhvrGafw2zj,https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b,0.38,0.988,-2.042,0.0639,7.86e-05,0.368,0.769,186.113
+My Humps,2tVouQintSo2ffjVgnv6Sh,https://i.scdn.co/image/ab67616d0000b273347fa9eee03ed7792eabbd0b,0.802,0.682,-5.924,0.222,1.39e-05,0.109,0.586,123.95
+Pump It,0qvAz8C10uJ8PvGvJokgIF,https://i.scdn.co/image/ab67616d0000b273347fa9eee03ed7792eabbd0b,0.648,0.931,-3.15,0.181,0.0,0.752,0.744,153.649
+You're Beautiful,5pbajJXEPdcoXQPXoAVR1t,https://i.scdn.co/image/ab67616d0000b2739489b7675f782feada134658,0.675,0.479,-9.87,0.0278,1.76e-05,0.088,0.454,81.998
+Boom Boom Pow,0rXgKeO7DWMiXCmNDhkRdd,https://i.scdn.co/image/ab67616d0000b27392fdf05ef77b0788256d09df,0.866,0.857,-5.894,0.0664,0.0017,0.131,0.408,130.049
+Use Somebody,2TYC9SaRhYypUQzB1ZVTG2,https://i.scdn.co/image/ab67616d0000b27379b30684a8e0dd83917c7cc5,0.276,0.715,-5.356,0.0432,0.000417,0.201,0.173,137.028
+Party In The U.S.A.,4TZZvblv2yzLIBk2JwJ6Un,https://i.scdn.co/image/ab67616d0000b2738cd7c5c3b718dafcd8a03059,0.478,0.703,-4.665,0.066,7.55e-05,0.0798,0.483,191.957
+I Like It,4nVyHATevhl5RC6Qmoko5H,https://i.scdn.co/image/ab67616d0000b27361b07d8471f34aa6616eaf21,0.646,0.94,-2.856,0.0838,0.0,0.0691,0.704,129.011
+Just The Way You Are,24lMtPOCzP5g4hrg3NklLa,https://i.scdn.co/image/ab67616d0000b273995065098a5f43cd5cec6456,0.637,0.843,-5.413,0.0432,0.0,0.0876,0.434,109.012
+"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",7LcfRTgAVTs5pQGEQgUEzN,https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239,0.722,0.758,-4.477,0.0471,0.0,0.308,0.62,128.047
+Till the World Ends,38iU2jg98IZZEIJPrP7aWD,https://i.scdn.co/image/ab67616d0000b273fda0f2adec40250bea55101b,0.693,0.705,-5.747,0.0665,0.0,0.202,0.45,131.951
+Call Me Maybe,6ol4ZSifr7r3Lb2a9L5ZAB,https://i.scdn.co/image/ab67616d0000b27352d36c5a4e5fd5c7b5ceaa22,0.783,0.584,-6.572,0.0409,2.91e-06,0.108,0.632,120.031
+Payphone,0iyEaciAmtiv8xMkBg97Fy,https://i.scdn.co/image/ab67616d0000b27320839238d0f69d5486743905,0.745,0.756,-4.749,0.0429,0.0,0.356,0.495,109.999
+Glad You Came,1OXfWI3FQMdsKKC6lkvzSx,https://i.scdn.co/image/ab67616d0000b27369e5c7973254136e3228fa34,0.698,0.844,-4.549,0.067,1.69e-05,0.105,0.446,126.937
+Wild Ones (feat. Sia),5Z7ygHQo02SUrFmcgpwsKW,https://i.scdn.co/image/ab67616d0000b273092fa3cd64dbcae3e02326f5,0.624,0.889,-3.772,0.0504,0.0,0.227,0.45,127.019
+Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,2Foc5Q5nqNiosCNqttzHof,https://i.scdn.co/image/ab67616d0000b2731d5cf960a92bb8b03fc2be7f,0.794,0.811,-8.966,0.038,1.07e-06,0.101,0.862,116.047
+Radioactive,0Yo8GhK9HEaeIZetPARrW9,https://i.scdn.co/image/ab67616d0000b273b810e37445ea29135c2a17d7,0.453,0.789,-3.489,0.0599,8.48e-05,0.22,0.233,136.117
+Can't Hold Us (feat. Ray Dalton),3bidbhpOYeV4knp8AIu8Xn,https://i.scdn.co/image/ab67616d0000b27398a02fef3a8b1d80a0f164ec,0.641,0.922,-4.457,0.0786,0.0,0.0862,0.847,146.078
+I Love It (feat. Charli XCX),3VZQshi4COChhXaz7cLP02,https://i.scdn.co/image/ab67616d0000b273d6963d8a76c80d9f47bbdc59,0.714,0.905,-2.663,0.0289,2.55e-05,0.146,0.838,125.927
+I Gotta Feeling,70cTMpcgWMcR18t9MRJFjB,https://i.scdn.co/image/ab67616d0000b27349ed7a0ea23c40c730f6bb37,0.743,0.766,-6.375,0.0265,0.0,0.509,0.61,127.96
+Happy,6NPVjNh8Jhru9xOmyQigds,https://i.scdn.co/image/ab67616d0000b27399140a62d43aec760f6172a2,0.652,0.757,-6.819,0.153,0.0,0.0886,0.962,159.911
+Titanium (feat. Sia),0TDLuuLlV54CkRRUOahJb4,https://i.scdn.co/image/ab67616d0000b2735c8cfe4b2c4aa89c9c92108e,0.604,0.787,-3.674,0.103,0.15,0.127,0.301,126.062
+Turn Me On (feat. Nicki Minaj),6T27IN7Ai94BeDv6PPCmoC,https://i.scdn.co/image/ab67616d0000b2735c8cfe4b2c4aa89c9c92108e,0.704,0.793,-2.266,0.0591,0.0,0.575,0.412,127.96
+Without You (feat. Usher),3UN6cIn3VIyg0z1LCuFSum,https://i.scdn.co/image/ab67616d0000b2735c8cfe4b2c4aa89c9c92108e,0.608,0.614,-3.727,0.0285,4.06e-06,0.157,0.402,127.884
+Where Them Girls At (feat. Nicki Minaj & Flo Rida),7ks6AZmFcm3Y6PGGxGSmlB,https://i.scdn.co/image/ab67616d0000b2735c8cfe4b2c4aa89c9c92108e,0.666,0.876,-3.078,0.0414,0.0,0.259,0.552,129.884
+Little Bad Girl (feat. Taio Cruz & Ludacris),55VzNhbcf0Gxf6qRCUAV01,https://i.scdn.co/image/ab67616d0000b2735c8cfe4b2c4aa89c9c92108e,0.668,0.829,-2.748,0.0334,0.0,0.358,0.648,127.0
+Sweat (Snoop Dogg vs. David Guetta) - David Guetta Remix,7LpT54RUvN0IvDGIxiwHwS,https://i.scdn.co/image/ab67616d0000b2735c8cfe4b2c4aa89c9c92108e,0.822,0.749,-5.563,0.0285,0.000273,0.0732,0.707,130.005
+Chasing The Sun,6WfDlkxh3cFinLzRX8A2nP,https://i.scdn.co/image/ab67616d0000b2736db7dbd6bb448871e35217c0,0.643,0.724,-6.133,0.105,0.0,0.487,0.644,128.104
+Sexy And I Know It,70Vdd1gx5tn84jkAU31ASv,https://i.scdn.co/image/ab67616d0000b2731db908d5f66645cb158837ca,0.707,0.861,-4.225,0.316,0.0,0.191,0.795,130.021
+Sorry For Party Rocking,68rRbbwmXydDOqhArVTFTX,https://i.scdn.co/image/ab67616d0000b2731db908d5f66645cb158837ca,0.6,0.877,-4.351,0.165,0.0,0.413,0.55,133.998
+Party Rock Anthem,7mitXLIMCflkhZiD34uEQI,https://i.scdn.co/image/ab67616d0000b2731db908d5f66645cb158837ca,0.751,0.736,-4.168,0.156,0.0,0.265,0.352,130.014
+Shots,2nqFhnMyhQfQqSgERDEfRW,https://i.scdn.co/image/ab67616d0000b2731db908d5f66645cb158837ca,0.827,0.861,-1.937,0.0525,1.59e-06,0.146,0.202,127.994
+We Are Young (feat. Janelle Monáe),3ehrxAhYms24KLPG8FZe0W,https://i.scdn.co/image/ab67616d0000b273d583f60799ad73ff52b80218,0.378,0.638,-5.576,0.075,7.66e-05,0.0849,0.735,184.086
+In Da Club,7iL6o9tox1zgHpKUfh9vuC,https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae,0.899,0.713,-2.752,0.366,0.0,0.0708,0.777,90.051
+Princess of China,4HXOBjwv2RnLpGG4xWOO6N,https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d,0.42,0.69,-6.221,0.0347,0.015,0.287,0.237,85.014
+Timber (feat. Ke$ha),1zHlj4dQ8ZAtrayhuDDmkY,https://i.scdn.co/image/ab67616d0000b27316f7ba31754ea8368bf63186,0.587,0.965,-4.106,0.101,0.0,0.138,0.825,129.972
+When I Grow Up,0dQQWHlXvuw4UyHcAvhfhB,https://i.scdn.co/image/ab67616d0000b273605d3161b718406e3eff8038,0.675,0.693,-5.682,0.0514,0.0,0.38,0.353,118.423
+Dynamite,2CEgGE6aESpnmtfiZwYlbV,https://i.scdn.co/image/ab67616d0000b27366c3eb32692a0ae487079cf1,0.751,0.783,-3.724,0.0859,0.0,0.036,0.816,119.975
+California Gurls,6tS3XVuOyu10897O3ae7bi,https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616,0.791,0.754,-3.729,0.0569,0.0,0.163,0.425,125.014
