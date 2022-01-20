@@ -5,7 +5,7 @@ import json
 #Coletando dados de uma playlist
 
 URL = '	https://api.spotify.com/v1/playlists/6FCur4Jei2Lx0Xjs6axzmV/tracks'
-TOKEN = 'BQB9lgeE93O8FSlWREKH8RRN4FbGOFwqqRxvW0O-l833TMV1H6tm7GCYjmVwUKUeliBXmNw_af-nrrUAA7tIt306A6qZzok4IOBGjf49_0dtVMng5czjrHwOklQZuj7rCLwNLWaNsiVHl4GT25kJCZk'
+TOKEN = ''
 #insira seu token
 
 result = req.get(
